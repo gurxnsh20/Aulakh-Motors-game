@@ -5,7 +5,7 @@ package.domain = org.aulakh
 source.dir = .
 source.include_exts = py,png,jpg,ttf
 version = 1.0
-requirements = python3,pygame
+requirements = python3,pygame==2.1.3
 orientation = landscape
 fullscreen = 1
 android.archs = arm64-v8a
