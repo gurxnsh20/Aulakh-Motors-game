@@ -10,6 +10,7 @@ orientation = landscape
 fullscreen = 1
 android.archs = arm64-v8a
 android.accept_sdk_license = True
+android.ndk = 25b
 p4a.branch = develop
 
 [buildozer]
